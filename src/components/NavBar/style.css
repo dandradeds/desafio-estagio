@@ -1,0 +1,38 @@
+.sidebar {
+    position:relative;
+    float: left;
+    border-width:2px;
+    width: 21%;
+    height: 92vh;
+    background: linear-gradient(#24506e, #9198e5);  
+
+ }
+
+ li{
+    background-color: #1a374c;
+    list-style: none;
+    list-style-type: none;
+    cursor: pointer; 
+    width: 94%;
+    height: 2rem;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 7px;
+    padding-left: 15px;
+ }
+
+ul{
+    margin-left: 3px;
+    padding: 0;
+}
+
+.sidebar li:hover {
+    background: #b1abae;
+  
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}

@@ -1,0 +1,14 @@
+
+.BemVindo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.BemVindo h1{
+    font-size: 2rem;
+}
+.BemVindo img{
+    width: 60%;
+}
+

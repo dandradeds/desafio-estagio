@@ -1,0 +1,82 @@
+h5{
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+
+
+input{
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    position: relative;
+    width: 40%;
+    margin-right: 0.5rem;
+    height: 23px;
+    outline: none;
+    border-radius: 3px;
+    border: 1px solid #BFBFBF;
+
+}
+
+
+.geral{
+    background-color: #fff;
+    width: 70%;
+    height: 33rem;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;    
+    margin-top: 2rem;
+
+}
+.conatainer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.container{
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+    align-items: flex-start;
+    margin-left: 2rem;
+    margin-top: 2rem;
+    flex-direction: column;
+}
+.buttons{
+    display: flex;
+    width: 78%;
+    margin-bottom: 8px
+}
+.buttons svg{
+    border-radius: 3px;
+    border: 1px solid #BFBFBF;
+    box-shadow: 1px 1px 1px 1px #888888;
+}
+table {
+    width: 70%;
+ }
+
+tr {
+    border: 1px solid #BFBFBF;
+    background-color: #ececec00;
+    color: #2a2a2a;
+    list-style: none;
+    list-style-type: none;
+    height: 30px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+tr svg{
+    cursor: pointer;
+}
+
+ .table{
+     width: 50%;
+
+ }
